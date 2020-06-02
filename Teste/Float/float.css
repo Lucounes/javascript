@@ -1,0 +1,21 @@
+.element{
+    height: 200px;
+    width: 200px;
+}
+
+.element_first{
+    background-color: burlywood;
+    float: left;
+}
+.element_last{
+    background-color: chocolate;
+    float: right;
+}
+p{
+    background-color: crimson;
+    clear: both;
+}
+.pao{
+    background-color: cyan;
+    overflow: hidden;
+}
