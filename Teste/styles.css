@@ -1,0 +1,25 @@
+/* .parent{
+    background-color: darkkhaki;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 800px;
+
+}
+
+.child{
+    height: 400px;
+    width: 400px;
+    background-color: darkcyan;
+} */
+.gray{
+    background-color: silver;
+    border: 1px solid darkgray;
+    border-radius: 4px;
+    height: 500px;
+    
+}
+.row{
+    margin: 0 10px 0 10px !important;
+}
